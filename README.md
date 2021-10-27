@@ -1,3 +1,2 @@
 React Blog App 
- site url:
- www.
+ site url:https://dearblog1.netlify.app/
