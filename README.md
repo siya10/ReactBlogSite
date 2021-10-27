@@ -1,2 +1,2 @@
-React Blog App 
- site url:
+React  App 
+ site url:www.
