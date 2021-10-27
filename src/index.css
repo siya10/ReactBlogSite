@@ -108,3 +108,6 @@
 .create button:hover{
   background-color: #4346f1;
 }
+button{
+  color: white;
+}
